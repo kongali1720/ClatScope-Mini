@@ -131,7 +131,7 @@ Support with 💸 so I can buy ☕ and keep being 🔥!
   </a>
 </p>
 
-"Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." 🖤
+"Karena jadi programmer yang pakai hati bukan cuma soal coding... tapi juga soal peduli." 🖤
 
 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
